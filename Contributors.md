@@ -36,6 +36,7 @@
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
+- [Nameet Nayak] (https://github.com/nayaknameet)
 - [Ben Penwell] (https://github.com/bpenwell)
 - [Robbe Decorte] (https://github.com/robbedec)
 - [Robert Gleason] (https://github.com/robgleason)
@@ -7035,6 +7036,7 @@ Bailey Wong
 - [Dragos Dobre](https://github.com/dobredragos24)
 - [Vishal Koosuri](https://github.com/dainvinc)
 - [Nikolai Fischer](https://github.com/nikolaifischer)
+- [Rob Adams](https://github.com/pastor-robert)
 - [pa7ryk](https://github.com/pa7ryk)
 - [Nathan Simpson](https://github.com/nathansimpson5)
 - [Jayant Sarkar](https://github.com/codejayant)
